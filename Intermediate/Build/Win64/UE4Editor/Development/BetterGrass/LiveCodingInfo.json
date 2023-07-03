@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BetterGrass.cpp.obj": [
+			"BetterGrass.cpp.obj",
+			"BetterGrassSubsystem.cpp.obj"
+		]
+	}
+}
