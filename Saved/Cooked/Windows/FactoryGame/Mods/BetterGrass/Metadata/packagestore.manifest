@@ -1,0 +1,56 @@
+{
+	"Files": [
+		{
+			"Path": "FactoryGame/Mods/BetterGrass/Content/BG_ModConfigStruct.uasset",
+			"ChunkId": "eac26722fe5a3d1500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/BetterGrass/Content/BG_ModConfig.uasset",
+			"ChunkId": "f6cb7ca7965d394100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/BetterGrass/Content/BG_Subsystem.uasset",
+			"ChunkId": "648f36a1d81de12400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/BetterGrass/Content/BG_GameInstanceModule.uasset",
+			"ChunkId": "beadf5d3ed1c155600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/BetterGrass/Content/BG_GameWorldModule.uasset",
+			"ChunkId": "6be9a64cf1518ee800000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/BetterGrass/BG_ModConfigStruct",
+			"ExportBundleChunkIds": [
+				"eac26722fe5a3d1500000001"
+			]
+		},
+		{
+			"Name": "/BetterGrass/BG_ModConfig",
+			"ExportBundleChunkIds": [
+				"f6cb7ca7965d394100000001"
+			]
+		},
+		{
+			"Name": "/BetterGrass/BG_Subsystem",
+			"ExportBundleChunkIds": [
+				"648f36a1d81de12400000001"
+			]
+		},
+		{
+			"Name": "/BetterGrass/BG_GameInstanceModule",
+			"ExportBundleChunkIds": [
+				"beadf5d3ed1c155600000001"
+			]
+		},
+		{
+			"Name": "/BetterGrass/BG_GameWorldModule",
+			"ExportBundleChunkIds": [
+				"6be9a64cf1518ee800000001"
+			]
+		}
+	]
+}
