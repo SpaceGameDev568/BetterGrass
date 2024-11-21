@@ -18,15 +18,13 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.8.0-dev",
-			"Enabled": true,
-			"BasePlugin": false
+			"SemVersion": "^3.8.0",
+			"Enabled": true
 		},
 		{
 			"Name": "ModUpdateNotifier",
 			"Enabled": true,
-			"Optional": true,
-			"SemVersion": "^2.0.0"
+			"SemVersion": "^2.0.2"
 		}
 	],
 	"AcceptsAnyRemoteVersion": true,
