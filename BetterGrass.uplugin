@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.2",
-	"SemVersion": "2.0.2",
+	"VersionName": "2.0.3",
+	"SemVersion": "2.0.3",
 	"FriendlyName": "Better Grass",
 	"Description": "More beautiful grass for your game.",
 	"Category": "Modding",
@@ -18,13 +18,13 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.8.0",
+			"SemVersion": "^3.9.1",
 			"Enabled": true
 		},
 		{
 			"Name": "ModUpdateNotifier",
 			"Enabled": true,
-			"SemVersion": "^2.1.0"
+			"SemVersion": "^2.2.1"
 		}
 	],
 	"AcceptsAnyRemoteVersion": true,
